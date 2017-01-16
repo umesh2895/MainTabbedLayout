@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/android-tablayout-master /app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/umesh/AndroidStudioProjects/android-tablayout-master /app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_5e3f4b1dea98932c5c85d9a25f3d5163e84d13f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/android-tablayout-master /app/build/intermediates/exploded-aar/com.makeramen/roundedimageview/2.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="814fc0c3ec69a944add398217d90077301501a74">
+        <dex dex="/home/umesh/AndroidStudioProjects/android-tablayout-master /app/build/intermediates/pre-dexed/debug/com.makeramen-roundedimageview-2.2.1_f01a6f21469c29a9ef90a7ac0220d2b9e2fc5191.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/android-tablayout-master /app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/umesh/AndroidStudioProjects/android-tablayout-master /app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_fa966a2961d5b65df90b1aaf646ee87de93a9bce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/android-tablayout-master /app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/umesh/AndroidStudioProjects/android-tablayout-master /app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_73f1125c67504138f15f8783babeedb6fcc5e8c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/android-tablayout-master /app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/home/umesh/AndroidStudioProjects/android-tablayout-master /app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.1.1_5ea20ec3703b81ac44dd74f8e72c1551efdb9d4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/umesh/AndroidStudioProjects/android-tablayout-master /app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_a3219002b95520a64c7b9ca944c072fbfdc8deac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/android-tablayout-master /app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/umesh/AndroidStudioProjects/android-tablayout-master /app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_6e80d2041ecc553b4f9cbbecafbf0f5bc0f42028.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/umesh/AndroidStudioProjects/android-tablayout-master /app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/umesh/AndroidStudioProjects/android-tablayout-master /app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_50a4efa7b28b650c6ad7ad1775aae839981f1f61.jar" />
+    </item>
+
+</items>
